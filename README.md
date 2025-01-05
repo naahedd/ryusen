@@ -35,8 +35,4 @@ Explore AI conversations through an interactive graph. Each thought branches int
 - Google's Gemini API
 - TypeScript
 
-## Development
 
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
-
-[... rest of your existing Next.js documentation ...]
